@@ -1,6 +1,6 @@
 Selam I'm Wahib Student at  [BTÜ](https://btu.edu.tr/)  👋
 
-- 🔭 I’m currently as a freelancer
+- 🔭 I’m currently a freelancer
 - 🌱 I’m currently web Languages CSS, XLM, JS, Python  ...
 - 💬 Ask me about JAVA
 - 📫 How to reach me: [Linkdin: wahib-moqbel](https://www.linkedin.com/in/wahib-moqbel-b5b7241ba) , [instagram: wahib-moqbel](https://www.instagram.com/wahib_hael/) ,  [Youtube: Wahib-Edu](http://shorturl.at/opsG9)
