@@ -8,10 +8,9 @@ Selam I'm Wahib Student at  [BTÜ](https://btu.edu.tr/)  👋
   <img src= 
 "https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c">      
 
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahib-eng&layout=compact)]
+
 
 [![alt text][2.1]][2]
-
 [![alt text][6.1]][6]
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -20,12 +19,9 @@ Selam I'm Wahib Student at  [BTÜ](https://btu.edu.tr/)  👋
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-
-
-
 [2]: http://www.facebook.com/waheeb.hael
 [6]: http://www.github.com/Wahib-eng
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 
 
