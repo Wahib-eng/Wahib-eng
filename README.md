@@ -1,4 +1,4 @@
-Selam I'm Wahib Student at  [BTÜ](https://btu.edu.tr/)  👋
+# Selam I'm Wahib Student at  [BTÜ](https://btu.edu.tr/)  👋
 
 - 🔭 I’m currently a freelancer
 - 🌱 I’m currently learning CSS, XLM, JS, php , Python 
