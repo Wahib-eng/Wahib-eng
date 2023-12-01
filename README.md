@@ -10,6 +10,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wahib-eng)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wahib-eng&theme=dark&hide_border=true&border_radius=4.9&exclude_days=Sun&type=png" alt="GitHub Streak" /></a>
+
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
