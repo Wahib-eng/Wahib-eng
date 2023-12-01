@@ -8,6 +8,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+...Welcome+to+my+page)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
