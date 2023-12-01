@@ -5,10 +5,8 @@
 - 💬 Ask me about javaScript & PHP 
 - 📫 How to reach me: [Linkdin: wahib-moqbel](https://www.linkedin.com/in/wahib-moqbel-b5b7241ba) , [instagram: wahib-moqbel](https://www.instagram.com/wahib_hael/) ,  [Youtube: Wahib-Edu](http://shorturl.at/opsG9)
 
-  <img src= 
-"">      
 
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
