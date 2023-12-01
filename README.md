@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Linkdin: wahib-moqbel](https://www.linkedin.com/in/wahib-moqbel-b5b7241ba) , [instagram: wahib-moqbel](https://www.instagram.com/wahib_hael/) ,  [Youtube: Wahib-Edu](http://shorturl.at/opsG9)
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+...Welcome+to+my+page)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+...Welcome+to+my+Wahibs+Page)](https://git.io/typing-svg)
 
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
