@@ -9,7 +9,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+...Welcome+to+my+page)](https://git.io/typing-svg)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wahib-eng&theme=terafox&hide_border=true&border_radius=4.9&exclude_days=Tue" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wahib-eng&theme=terafox&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
 
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
