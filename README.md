@@ -1,6 +1,6 @@
-# Selam I'm Wahib Student at  [BTÜ](https://btu.edu.tr/)  👋
+# Selam I'm Wahib at  [BTÜ](https://btu.edu.tr/)  👋
 
-- 🔭 A computer vision intern at Bize proje Geliştirme 
+- 🔭 A Full-Stack Developer | JavaScript, PHP | AI & Computer Vision | Open to Work anywhere. 
 
 - 📫 How to reach me: [Linkdin: wahib-moqbel](https://www.linkedin.com/in/wahib-moqbel-b5b7241ba) , [instagram: wahib-moqbel](https://www.instagram.com/wahib_hael/) ,  [Youtube: Wahib-Edu](http://shorturl.at/opsG9)
 
