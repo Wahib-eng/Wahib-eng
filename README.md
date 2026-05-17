@@ -1,6 +1,8 @@
 # Selam I'm Wahib at  [BTÜ](https://btu.edu.tr/)  👋
 
-- 🔭 A Full-Stack Developer | JavaScript, PHP | AI & Computer Vision | Open to Work anywhere. 
+- 🔭 A Full-Stack Developer | JavaScript, PHP | AI & Computer Vision | Open to Work anywhere.
+
+- [Resume website](https://wahib-eng.github.io/Resume/)
 
 - 📫 How to reach me: [Linkdin: wahib-moqbel](https://www.linkedin.com/in/wahib-moqbel-b5b7241ba) , [instagram: wahib-moqbel](https://www.instagram.com/wahib_hael/) ,  [Youtube: Wahib-Edu](http://shorturl.at/opsG9)
 
